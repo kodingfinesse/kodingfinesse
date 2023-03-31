@@ -1,6 +1,6 @@
 import React from 'react'
 import Container from 'react-bootstrap/Container'
-import darren from '../assets/Resume.pdf'
+import darren from '../assets/DarrenTranResume.pdf'
 
 export const Resume = () => {
   return(
